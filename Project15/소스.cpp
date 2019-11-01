@@ -11,5 +11,5 @@ int main()
 	printf("¸ò: %d\n ", x / y);
 	printf("³ª¸ÓÁö: %d\n ", x % y);
 
-	
+	return 0;
 }
